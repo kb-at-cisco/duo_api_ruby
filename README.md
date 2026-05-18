@@ -12,6 +12,8 @@
 
 **Accounts** - https://www.duosecurity.com/docs/accountsapi
 
+**Authorization** - The authorization endpoint is in public preview and subject to change
+
 # Compatibility
 While the gem should work for Ruby versions >= 2.5, tests and linting may only work properly on Ruby versions >= 3.0.
 
